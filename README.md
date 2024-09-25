@@ -1,7 +1,7 @@
 # <h1><u>**PROGRAMACIÓN DE SERVICIOS Y PROCESOS**</u></h1>
 
 ### Repositorio github:     
-https://github.com/carlosDAM2905/Programaci-n-de-servicios-y-procesos.git
+https://github.com/carlosDAM2905/Programacion-de-servicios-y-procesos.git
 
 ## <u>Contenido</u>:
 - src &#8594; Contiene los ejercicios
