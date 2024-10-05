@@ -23,9 +23,4 @@ public class EscribirFichero {
             System.out.println("Error al escribir el archivo " + e.getMessage());
         }
     }
-
-
-
-
-
 }

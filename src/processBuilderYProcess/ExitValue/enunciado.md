@@ -1,0 +1,1 @@
+Haz un programa que ejecute varios comandos (notepad, calc, comandos shell, comandos cmd...) uno detrás de otro, de forma secuencial,y haz que tu programa obtenga el código de finalización de cada uno de ellos. Para cada programa imprime el nombre y su código de finalización. Prueba a poner aplicacones que no existan o comandos con parámetros incorrectos.

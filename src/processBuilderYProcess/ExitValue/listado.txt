@@ -1,0 +1,13 @@
+ El volumen de la unidad C es OS
+ El n£mero de serie del volumen es: CE89-6516
+
+ Directorio de C:\Users\wicar\Desktop\DAM
+
+05/10/2024  19:19    <DIR>          .
+03/10/2024  19:51    <DIR>          ..
+03/10/2024  17:24               206 github-recovery-codes.txt
+25/09/2024  12:14    <DIR>          PRACTICAS
+05/10/2024  19:19    <DIR>          PRIMERO
+02/10/2024  16:33    <DIR>          SEGUNDO
+               1 archivos            206 bytes
+               5 dirs  173.784.018.944 bytes libres
