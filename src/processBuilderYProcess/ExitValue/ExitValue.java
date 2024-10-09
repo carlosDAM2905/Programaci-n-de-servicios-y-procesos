@@ -25,6 +25,7 @@ public class ExitValue {
         // comando5: Este comando es incorrecto (no existe) para simular un error.
         String comando5 = "comandoIncorrecto";
 
+
         // Creamos una lista de comandos para que el programa los ejecute uno por uno.
         ArrayList<String> listaComandos = new ArrayList<>();
         listaComandos.add(comando1);  // Añadimos el comando para abrir Notepad.
@@ -54,9 +55,12 @@ public class ExitValue {
                 // Esperamos a que el proceso termine. 'waitFor()' bloquea hasta que el proceso termina.
                 proceso.waitFor();
 
+                // Guardamos el código que proporciona el método exitValue() de la clase Process:
+                int exitCode = proceso.exitValue();
+
                 // Mostramos el código de salida del proceso.
                 // Un código de salida 0 significa que el proceso terminó correctamente.
-                System.out.println("Comando: " + comando + " | Código de salida: " + proceso.exitValue());
+                System.out.println("Comando: " + comando + " | Código de salida: " + exitCode);
 
             } catch (IOException e) {
                 // Capturamos el error si el comando no existe o no puede ejecutarse.

@@ -3,11 +3,11 @@
 
  Directorio de C:\Users\wicar\Desktop\DAM
 
-05/10/2024  19:19    <DIR>          .
-03/10/2024  19:51    <DIR>          ..
+08/10/2024  00:30    <DIR>          .
+08/10/2024  15:33    <DIR>          ..
 03/10/2024  17:24               206 github-recovery-codes.txt
 25/09/2024  12:14    <DIR>          PRACTICAS
 05/10/2024  19:19    <DIR>          PRIMERO
-02/10/2024  16:33    <DIR>          SEGUNDO
+08/10/2024  00:30    <DIR>          SEGUNDO
                1 archivos            206 bytes
-               5 dirs  173.784.018.944 bytes libres
+               5 dirs  174.889.480.192 bytes libres
