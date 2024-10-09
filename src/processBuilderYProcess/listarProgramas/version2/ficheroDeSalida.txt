@@ -1,0 +1,94 @@
+Name                                                            Version           
+
+Python 3.9.13 pip Bootstrap (64-bit)                            3.9.13150.0       
+
+Python 3.9.13 Utility Scripts (64-bit)                          3.9.13150.0       
+
+Python 3.10.4 Executables (64-bit)                              3.10.4150.0       
+
+Python 3.10.4 Utility Scripts (64-bit)                          3.10.4150.0       
+
+Python 3.10.4 Development Libraries (64-bit)                    3.10.4150.0       
+
+Python 3.10.4 Test Suite (64-bit)                               3.10.4150.0       
+
+Python 3.9.13 Core Interpreter (64-bit)                         3.9.13150.0       
+
+Python 3.9.13 Documentation (64-bit)                            3.9.13150.0       
+
+Python 3.9.13 Tcl/Tk Support (64-bit)                           3.9.13150.0       
+
+Python 3.9.13 Test Suite (64-bit)                               3.9.13150.0       
+
+Python 3.9.13 Development Libraries (64-bit)                    3.9.13150.0       
+
+Python 3.10.4 pip Bootstrap (64-bit)                            3.10.4150.0       
+
+Python 3.9.13 Standard Library (64-bit)                         3.9.13150.0       
+
+Python 3.10.4 Core Interpreter (64-bit)                         3.10.4150.0       
+
+Python 3.10.4 Tcl/Tk Support (64-bit)                           3.10.4150.0       
+
+Python 3.10.4 Documentation (64-bit)                            3.10.4150.0       
+
+Python 3.9.13 Executables (64-bit)                              3.9.13150.0       
+
+Python 3.10.4 Standard Library (64-bit)                         3.10.4150.0       
+
+Office 16 Click-to-Run Extensibility Component                  16.0.18025.20104  
+
+Office 16 Click-to-Run Localization Component                   16.0.18025.20104  
+
+Office 16 Click-to-Run Licensing Component                      16.0.18025.20104  
+
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219     10.0.40219        
+
+Python Launcher                                                 3.10.7751.0       
+
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219     10.0.40219        
+
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532  14.36.32532       
+
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.31.31103  14.31.31103       
+
+Easy Connection to Screen                                       4.7.1             
+
+Oracle VM VirtualBox 6.1.38                                     6.1.38            
+
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030   11.0.61030        
+
+                                                                                  
+
+Eclipse Temurin JDK con Hotspot 21.0.2+13 (x64)                 21.0.2.13         
+
+MySQL Workbench 8.0 CE                                          8.0.34            
+
+Brother Port Driver                                             1.0.14.1          
+
+Windows Subsystem for Linux                                     2.3.24.0          
+
+                                                                                  
+
+Java(TM) SE Development Kit 20.0.1 (64-bit)                     20.0.1.0          
+
+MySQL Server 8.2                                                8.2.0             
+
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030      11.0.61030        
+
+HttpToUsbBridge                                                 2.0.33.1          
+
+Microsoft Update Health Tools                                   5.72.0.0          
+
+Brother Printer Driver                                          1.9.0.0           
+
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532     14.36.32532       
+
+Brother Scanner Driver                                          1.0.28.1          
+
+AppLogLibSetup                                                  1.0.3.0           
+
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.31.31103     14.31.31103       
+
+
+

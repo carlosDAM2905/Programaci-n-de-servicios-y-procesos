@@ -6,17 +6,21 @@ public class Main2 {
     public static void main(String[] args) {
 
         ProcessBuilder pb = null;
+        String ruta;
 
         if (System.getProperty("os.name").contains("Windows")) {
 
             pb = new ProcessBuilder("wmic", "product", "get", "name,version");
 
+            ruta = "src\\processBuilderYProcess\\listarProgramas\\version2\\ficheroDeSalida.txt";
+
         } else {
 
             pb = new ProcessBuilder("/usr/bin", "/usr/local/bin", "-type", "f", "-executable");
+
+            ruta = "src/processBuilderYProcess/listarProgramas/version2/ficheroDeSalida.txt";
         }
 
-        String ruta = "src/processBuilderYProcess/listarProgramas/ficheroDeSalida.txt";
 
         File fichero = new File(ruta);
         try {

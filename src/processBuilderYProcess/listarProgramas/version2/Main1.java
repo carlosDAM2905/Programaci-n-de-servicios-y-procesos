@@ -12,13 +12,17 @@ public class Main1 {
 
         ProcessBuilder pb = null;
 
+
         if (System.getProperty("os.name").contains("Windows")) {
 
             pb = new ProcessBuilder("wmic", "product", "get", "name,version");
 
+
         } else {
 
             pb = new ProcessBuilder("/usr/bin", "/usr/local/bin", "-type", "f", "-executable");
+
+
         }
 
         try {
