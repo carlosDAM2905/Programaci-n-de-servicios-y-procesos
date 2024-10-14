@@ -32,7 +32,7 @@ public class Main2 {
             System.out.println("Error al crear el fichero " + e.getMessage());
         }
 
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter(fichero, true))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(fichero))) {
 
             Process proceso = pb.start();
 
@@ -54,6 +54,7 @@ public class Main2 {
             }
 
             int codigoSalida = proceso.waitFor();
+            System.out.println("Código de salida: " + codigoSalida);
 
 
         } catch (IOException e) {
